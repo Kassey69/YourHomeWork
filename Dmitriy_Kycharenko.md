@@ -124,3 +124,5 @@ git clone https://github.com/AlexL4v/test.git
     git fetch origin name_branch 
 
 где **"origin"** - имя репозитория, **"master"** - имя сливаемой ветки
+
+## **КОНЕЦ**
